@@ -35,29 +35,37 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A booke of the inuention of the art of nauigation and of the greate trauelles whiche they passe that
+
+1. TO THE RIGHT HOnourable the Lord Charles Haward Baron of Effingham, and Knight of the moſt noble order of the Garter: Edward Hellowes wiſheth long life, with the fulneſſe of all perfecte felicitie.
+
+1. To the Reader.
+
+1. A Letter Miſſiue, or Dedicatorie of the Authour, vnto the renowmed ſir Fraunces de la Cobos. (⁂)
+
 #####Body#####
 
-1. Of the ſtraunge report of Hiſtoriographers, concerning Gallies. The firſt Chapter.
+1. A TREATISE OF THE inuenters and inuention of the Arte of Nauigation, and of the trauels of the Gallies. Compiled by the renowmed ſir Anthonie of Gueuara Biſhop of Mondonnedo, Preacher, Chronicler, and Counſeller vnto the Emperour Charles the fifte.
 
-1. ¶Of the inuenters and vſers of Gallies, ſeruing for Nauigation, and of diuerſe their deedes. The ſecond Chapter.
+    _ Of the ſtraunge report of Hiſtoriographers, concerning Gallies. The firſt Chapter.
 
-1. Of the firſt inuention of Nauigation, and the great daungers thereof, and of manie philoſophers that would neuer ſaile or paſſe the Seas. The thirde Chapter.
+    _ ¶Of the inuenters and vſers of Gallies, ſeruing for Nauigation, and of diuerſe their deedes. The ſecond Chapter.
 
-1. Of many and verie famous Pyrates which haue liued on Sea. The fourth Chapter.
+    _ Of the firſt inuention of Nauigation, and the great daungers thereof, and of manie philoſophers that would neuer ſaile or paſſe the Seas. The thirde Chapter.
 
-1. Of many and great priuileges which they haue in Gallies. The fifte Chapter.
+    _ Of many and verie famous Pyrates which haue liued on Sea. The fourth Chapter.
 
-1. Of other twentie trauels that are in the Gallies. The ſixte Chapter.
+    _ Of many and great priuileges which they haue in Gallies. The fifte Chapter.
 
-1. Of other greater trauels and perils, whiche they paſſe that goe in Gallies. The vij. Chapter.
+    _ Of other twentie trauels that are in the Gallies. The ſixte Chapter.
 
-1. Of a certeine ſubtile diſcretion of the ſea, and of her perillous properties. The viii. Chapter.
+    _ Of other greater trauels and perils, whiche they paſſe that goe in Gallies. The vij. Chapter.
 
-1. Of the thinges which the paſſenger hath to prouide, when he entereth the Gallie. The ix. Chapter.
+    _ Of a certeine ſubtile diſcretion of the ſea, and of her perillous properties. The viii. Chapter.
+
+    _ Of the thinges which the paſſenger hath to prouide, when he entereth the Gallie. The ix. Chapter.
 
 #####Back#####
-A booke of the inuention of the art of nauigation and of the greate trauelles whiche they passe that
+Jmprinted at London, for Ralfe Newberrie, dwelling in Fleete ſtréete, a litle aboue the Conduit.1578
 **Types of content**
 
   * There are 12 **verse** lines!
